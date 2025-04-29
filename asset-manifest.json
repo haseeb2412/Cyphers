@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chypers/static/css/main.fcb5bd36.css",
+    "main.js": "/Chypers/static/js/main.6a43b34c.js",
+    "static/js/453.28b928f6.chunk.js": "/Chypers/static/js/453.28b928f6.chunk.js",
+    "index.html": "/Chypers/index.html",
+    "main.fcb5bd36.css.map": "/Chypers/static/css/main.fcb5bd36.css.map",
+    "main.6a43b34c.js.map": "/Chypers/static/js/main.6a43b34c.js.map",
+    "453.28b928f6.chunk.js.map": "/Chypers/static/js/453.28b928f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb5bd36.css",
+    "static/js/main.6a43b34c.js"
+  ]
+}
